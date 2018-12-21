@@ -1,0 +1,2 @@
+# Basic-8051-Assembly-level-programming-and-Embedded-programming
+This repository contains my solutions to Assembly Level Programs (ALP) and Embedded C Programs for basic 8051 micro-controller functions. Contains codes for basic timers and counters, interrupt servicing, LCD, matrix keypad and 7 segment LED interfacing and also programs like Fibonacci series, Factorial, Sorting algorithms etc. Contains ".asm" files for ALP and ".c" files for Embedded C programs which can be run on the software "Keil uVision".
