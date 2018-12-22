@@ -1,0 +1,11 @@
+1. Write an ALP to add 10 bytes of data
+
+2. Write an ALP to transfer 10 bytes of data from external RAM location starting from 2000h to internal RAM starting from 30h
+
+3. Write an ALP to transfer 10 bytes of data from location starting from 30h to location 35h
+
+4. Write an ALP to transfer 10 bytes of data from location starting from 35h to location 30h
+
+5. Write an ALP to exchange 10 bytes of data from location starting from 30h with data from location starting from 1000h
+
+6. Write an ALP to transfer 10 bytes of data from location starting from 8000h to location 9000h within the external memory
