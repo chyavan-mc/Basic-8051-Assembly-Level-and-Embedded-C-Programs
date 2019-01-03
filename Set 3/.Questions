@@ -1,0 +1,7 @@
+1. Write an ALP to count the number of even and odd numbers in an array of N bytes of data
+
+2. Write an ALP to count the number of positive and negative numbers in an array of N bytes of data
+
+3. Check whether the given byte of data is present in an array of N bytes of data. If present send 00 to port0 else send FF to port0
+
+4. Read the data of port1. If p1.1 is at logic 0, find the largest number in an array of N bytes of data and store in location 40h. If p1.1 is at logic 1, find the smallest number in the array and store in location 40h.
