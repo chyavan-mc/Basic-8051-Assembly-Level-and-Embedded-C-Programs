@@ -1,0 +1,11 @@
+1. Write an ALP to arrange an array of N bytes of data in ascending order
+
+2. Write an ALP to arrange an array of N bytes of data in descending order
+
+3. Write an ALP to find whether the given number is prime or not. If prime send FF to port0, else send 00 to port0
+
+4. Write an ALP to find the factorial of a given number (using recursive procedure)
+
+5. Write an ALP for BCD upcounter. Show each count in port0 with appropriate delay
+
+6. Write an ALP for BCD downcounter. Show each count in port0 with appropriate delay
