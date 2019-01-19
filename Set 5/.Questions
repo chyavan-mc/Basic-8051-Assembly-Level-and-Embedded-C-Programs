@@ -1,0 +1,9 @@
+1. WAP to check whether the given byte of data is a palindrome. If yes, send 00 to Port0 else send FF to port0
+
+2. WAP to check whether the lower nibble is greater than the higher nibble of A. If yes, send 00 to Port0 else send FF to Port0
+
+3. WAP to convert 2 digit BCD to ASCII numbers and store them in location 30h(LSB) and 31h(MSB)
+
+4. WAP to find the square of a number using look-up-table technique
+
+5. WAP to find the square root of a number
