@@ -1,0 +1,7 @@
+1. WAP to generate a sqaure wave on P1.5 with 50% DutyCycle. Program timers in mode0, mode1 and mode2 to generate delay.
+
+2. WAP to generate a rectangular wave with T(on)=20ms and T(off)=40ms. Use Timer0 in mode0, mode1 and mode2 to generate delay.
+
+3. Repeat above problems to generaate square wave and rectangular wave with interrupts for timers
+
+4. Repeat above problems of status check and interrupt methods to generate square wave and rectangular wave using embedded c programs.
